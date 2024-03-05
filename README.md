@@ -1,6 +1,6 @@
 ## Oi eu sou Danilo Rodrigues, estudante de programação!
 
-- 🔭 Procurando uma oportunidade em Back-End
+- 🔭 Procurando uma oportunidade como desenvolvedor
 - 🌱 Estudando Python e DB
 - 😄 Pronomes: Ele/Dele
 -->
