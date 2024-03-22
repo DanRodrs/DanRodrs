@@ -3,7 +3,7 @@
 - 🔭 Procurando uma oportunidade como desenvolvedor
 - 🌱 Estudando Python, Java, Php e DB
 - 😄 Pronomes: Ele/Dele
--->
+
 
 
 
