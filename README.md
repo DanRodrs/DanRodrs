@@ -1,4 +1,4 @@
-## Oi eu sou Danilo Rodrigues, sou um estudante e entusiasta da progrmação!
+## Oi eu sou Danilo Rodrigues, estudante e entusiasta da programação!
 
 - 🔭 Procurando uma oportunidade como desenvolvedor
 - 🌱 Estudando Python, Java, Php e DB
@@ -9,7 +9,7 @@
 
 <h3 align="left">Se conecte comigo no:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/danilo-rodrs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danilo-rodrs/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danilo-rodrs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danilo-rodrs/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
